@@ -1,0 +1,19 @@
+Index(['YYYY', 'DD', 'MM', 'h', 'date', 'WindSpeedX', 'WindSpeedY',
+       'WindSpeedZ', 'fcp4', 'fcp5', 'fcp6', 'fcp7', 'fcp8', 'fcp9', 'fcp10',
+       'fcp11', 'fcp12', 'fcp13', 'fcp14', 'fcp15', 'fcp16', 'fcp17', 'fcp18',
+       'fcp19', 'fcp20', 'fcp21', 'fcp22', 'fcp23', 'fcp24', 'fcp25', 'fcp26',
+       'fcp27', 'fcp28', 'fcp29', 'fcp30', 'fcp31', 'fcp32', 'fcp33', 'fcp34',
+       'fcp35', 'fcp36', 'fcp37', 'fcp38', 'fcp39', 'fcp40', 'fcp41', 'fcp42',
+       'fcp43', 'fcp44', 'fcp45', 'fcp46', 'fcp47', 'fcp48', 'fcp49', 'fcp50',
+       'fcp51', 'fcp52', 'fcp53', 'hh._m', 'days', 'days_m', 'Kp', 'ap', 'D'],
+      dtype='object')
+
+Index(['YYYY', 'DD', 'MM', 'h', 'date', 'WindSpeedX', 'WindSpeedY',
+       'WindSpeedZ', 'fcp4', 'fcp5', 'fcp6', 'fcp7', 'fcp8', 'fcp9', 'fcp10',
+       'fcp11', 'fcp12', 'fcp13', 'fcp14', 'fcp15', 'fcp16', 'fcp17', 'fcp18',
+       'fcp19', 'fcp20', 'fcp21', 'fcp22', 'fcp23', 'fcp24', 'fcp25', 'fcp26',
+       'fcp27', 'fcp28', 'fcp29', 'fcp30', 'fcp31', 'fcp32', 'fcp33', 'fcp34',
+       'fcp35', 'fcp36', 'fcp37', 'fcp38', 'fcp39', 'fcp40', 'fcp41', 'fcp42',
+       'fcp43', 'fcp44', 'fcp45', 'fcp46', 'fcp47', 'fcp48', 'fcp49', 'fcp50',
+       'fcp51', 'fcp52', 'fcp53', 'hh._m', 'days', 'days_m', 'Kp', 'ap', 'D'],
+      dtype='object')
